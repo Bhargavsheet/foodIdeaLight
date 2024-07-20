@@ -1,0 +1,4 @@
+1) Copy and paste the folder.
+2) Do the npm install. 
+node version - 20.11.0
+3) npm start
